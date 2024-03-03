@@ -1,4 +1,4 @@
-# Linux-Elitist-Wallpapers
+# Linux-privacy-Wallpapers
 Self Designed Wallpapers which define Linux in a simple
 "I love privacy and I have it!"
 "hideout of elitist"
